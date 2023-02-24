@@ -1,2 +1,2 @@
 # API-Exchange-Rates
-API integration with Spring Boot
+Studing API integration with Spring Boot
